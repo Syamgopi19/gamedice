@@ -1,1 +1,1 @@
-# gamedice/dicee.html
+# gamedice
